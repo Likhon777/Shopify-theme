@@ -1,0 +1,80 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_section_579597918940430869": {
+      "settings": {
+        "checksum": "8a3c979d3a979e4434c0879c92850d0531d8bd3c4d72f3ffdecca6e905145fb1_1_1_1_0__1",
+        "ggVs5MvMvJd_text": "Click here to edit heading",
+        "ggYQf8T-1LE_text": "<p>This is your text block. Click to edit and make it your own. Share your product's story or services offered. Get creative and make it yours!</p>",
+        "section_preload": "true"
+      },
+      "type": "gp-section-579597918940430869"
+    },
+    "gp_section_579600661864251988": {
+      "settings": {
+        "checksum": "58df461a0a519ecf617c8e7c11b9d9cea38eeadf5c0ee65f5f877180665c00a1_1_1_1_0__1",
+        "ggBMEfxTn73_dayLabel": "Day",
+        "ggBMEfxTn73_hourLabel": "Hour",
+        "ggBMEfxTn73_minuteLabel": "Minute",
+        "ggBMEfxTn73_secondLabel": "Second",
+        "ggBMEfxTn73_weekLabel": "Week",
+        "ggrWMSe8XwO_text": "Official Launch",
+        "ggsfo4wiLlO_text": "Coming to you soon&nbsp;"
+      },
+      "type": "gp-section-579600661864251988"
+    },
+    "gp_section_579602121029059093": {
+      "settings": {
+        "checksum": "688b723fcfcff7a504e7878b2cf3d10bae4d4db9a03962c77c8b896441fef49b_1_1_1_0__1",
+        "ggDJHk6rBm6_placeholder": "Enter your email",
+        "ggWm4Soc2l__text": "Enter Your e-mail address&nbsp;",
+        "ggj1Kfz1HyA_errorMessage": "Can’t send email. Please try again later.",
+        "ggj1Kfz1HyA_successMessage": "Thanks for contacting us. We'll get back to you as soon as possible.",
+        "ggjiLsMG95w_label": "Get Started",
+        "ggtIWlbGurD_text": "<p>This is your text block. Click to edit and make it your own. Share your product's story or services offered. Get creative and make it yours!</p>"
+      },
+      "type": "gp-section-579602121029059093"
+    },
+    "gp_section_579603336102150916": {
+      "settings": {
+        "checksum": "fa0f155b21626fcfd367ed041fe1269abab994b7f9da4e220006fc4bf410a306_1_1_1_0__1",
+        "ggBijiYBUZ-_label": "Add to cart",
+        "ggBijiYBUZ-_outOfStockLabel": "Out of stock",
+        "ggBijiYBUZ-_unavailableLabel": "Unavailable",
+        "ggCPlsY1Sof_label": "Add to cart",
+        "ggCPlsY1Sof_outOfStockLabel": "Out of stock",
+        "ggCPlsY1Sof_unavailableLabel": "Unavailable",
+        "ggH27CsE72D_label": "Add to cart",
+        "ggH27CsE72D_outOfStockLabel": "Out of stock",
+        "ggH27CsE72D_unavailableLabel": "Unavailable",
+        "ggWwnW6XGiU_label": "Add to cart",
+        "ggWwnW6XGiU_outOfStockLabel": "Out of stock",
+        "ggWwnW6XGiU_unavailableLabel": "Unavailable",
+        "ggXNDaFRxHK_label": "Add to cart",
+        "ggXNDaFRxHK_outOfStockLabel": "Out of stock",
+        "ggXNDaFRxHK_unavailableLabel": "Unavailable",
+        "ggaBY1fsvqU_label": "Add to cart",
+        "ggaBY1fsvqU_outOfStockLabel": "Out of stock",
+        "ggaBY1fsvqU_unavailableLabel": "Unavailable",
+        "ggh20j9AJjd_text": "<p>At vero eos et accusamus et iusto odio dignissimos</p>",
+        "ggq_zrVjYTB_text": "Lorem Ipsum&nbsp;is simply dummy"
+      },
+      "type": "gp-section-579603336102150916"
+    }
+  },
+  "order": [
+    "gp_section_579597918940430869",
+    "gp_section_579600661864251988",
+    "gp_section_579602121029059093",
+    "gp_section_579603336102150916"
+  ],
+  "layout": "theme.gempages.blank"
+}
