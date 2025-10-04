@@ -15,7 +15,7 @@
     "badge_position": "top left",
     "blocks": {
       "6478312753674380289": {
-        "disabled": false,
+        "disabled": true,
         "settings": {},
         "type": "shopify://apps/gempages-builder/blocks/embed-gp-script-head/20b379d4-1b20-474c-a6ca-665c331919f3"
       }

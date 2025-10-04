@@ -15,13 +15,13 @@
         "video_wz9UXq": {
           "type": "video",
           "settings": {
-            "video_link": "https://cdn.shopify.com/videos/c/o/v/94c9f6d41a1a4afdbf25d0642d731d79.mp4",
-            "video_image": "shopify://shop_images/two-people-surfing-in-blue-choppy-water.jpg",
+            "video_link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/94c9f6d41a1a4afdbf25d0642d731d79.mp4",
+            "video_image": "shopify:\/\/shop_images\/two-people-surfing-in-blue-choppy-water.jpg",
             "title": "My custom banner",
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
             "color_text": "#ffffff",
             "button_label": "Shop Now",
-            "button_link": "shopify://collections/all",
+            "button_link": "shopify:\/\/collections\/all",
             "color_btn_bg": "#000000",
             "color_btn_text": "#ffffff"
           }
